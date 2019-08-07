@@ -1,5 +1,5 @@
 # gcptoken
-Simple token to retrieve Google Cloud Platform Bearer auth token
+An app to retrieve Google Cloud Platform Bearer auth token.
 
 ## Installation
 
